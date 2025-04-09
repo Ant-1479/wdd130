@@ -124,12 +124,12 @@ header{
      }
 
     .img{
-        width: 200px;
+        width:50%;
         height:200px;
         margin-right:20px;
         float:right;
         padding-right: 2px;
-        border: aqua 4px solid;
+        border-radius: aqua 4px solid;
     }
 
  .h1{
@@ -165,17 +165,17 @@ header{
      
     figure{
         background-color: aqua;
-        padding:20px;
+        padding:15px;
         border:solid 1px white;
         border-radius: 10px;
         box-shadow: 0 0 5px rgba(0 0 0 0.1);
-        margin:10px 43px 10px 43px;
+        margin:25px;
         display:inline-block;
-        vertical-align: top;
-        justify-content: center;
+        vertical-align:bottom;
+        justify-content:center;
     }
     figure img{
-        width:100%;
+        width:180px;
         height:auto;}
 
     figcaption{
