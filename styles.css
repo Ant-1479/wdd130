@@ -19,7 +19,7 @@ h1{
     color: darkblue;
 }
 
-main img{
+img{
     height:auto;
     width:150px;
     padding:2px;
@@ -29,13 +29,24 @@ main img{
 
 p{
     font-family:'Lucida Sans';
-    padding:20px;
+    padding:0;
     color:darkblue;
 }
 
 h2{
     font-family: 'Lucida Sans';
     color: darkblue;
+}
+
+aside {
+    margin:1rem;
+    width:20rem;
+    border:1px solid rgb(0 0 0/0.2);
+    padding:1rem;
+    background-color:#eee;
+    text-align:center;
+
+
 }
 
 aside img{
