@@ -1,0 +1,52 @@
+main{
+    max-width:850px;
+}
+
+nav{
+    background:darkblue;
+    padding:10px;
+}
+
+nav a{
+    font-family:'Lucida Sans';
+    display:block;
+    padding:20px;
+    color:white;
+}
+
+h1{
+    font-family: 'Lucida Sans';
+    color: darkblue;
+}
+
+main img{
+    height:auto;
+    width:150px;
+    padding:2px;
+    border:1px solid black;
+    box-shadow: 0 0  20px;
+}
+
+p{
+    font-family:'Lucida Sans';
+    padding:20px;
+    color:darkblue;
+}
+
+h2{
+    font-family: 'Lucida Sans';
+    color: darkblue;
+}
+
+aside img{
+    height:auto;
+    width:150px;
+    padding:2px;
+    border:1px solid black;
+    box-shadow: 0 0  20px;}
+
+footer{
+    margin-top: 15px;
+    border-top:1px solid #000;
+    text-align: center;
+}
